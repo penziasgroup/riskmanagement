@@ -1,0 +1,49 @@
+/*
+Custom CSS styles that override base theme go here.
+*/
+.front .field-name-body h2 {
+  line-height:30px;
+}
+
+.front .field-name-body h2.border-top {
+  border-top: 1px solid #CCC;
+  padding-top: 18px;
+  margin-top: 20px;
+}
+
+.front .field-name-body h3 {
+  margin-bottom:5px;
+}
+
+.front .view-hero-items .hero-copy {
+  display:none;
+}
+
+.front .view-hero-items .views-field-field-hero-image {
+  margin:0;
+  width:100%;
+}
+
+.front .view-hero-items .views-field-field-hero-image img {
+  display:block;
+  margin:0 auto;
+}
+
+td.views-field-title li {
+  font-size:12px;
+}
+
+.page-registration-information table tr h2 {
+  font-size:13px;
+  line-height:19px;
+}
+
+.schedule-sub-title {
+  font-size:16px;
+  font-weight:bold;
+}
+
+.schedule-sub-speaker {
+  font-weight:normal;
+  font-style:italic;
+}
